@@ -1,0 +1,83 @@
+[
+    {
+      "name": "The damned official",
+      "genre": "comedy",
+      "age_restriction": 16,
+      "duration": 93,
+      "cost": 100,
+      "country": "Russia",
+      "sessions": [1627812000, 1627819200, 1627920000]
+    },
+    {
+      "name": "F9",
+      "genre": "action",
+      "age_restriction": 12,
+      "duration": 153,
+      "cost": 200,
+      "country": "USA",
+      "sessions": [1627815600, 1627824600, 1628101200]
+    },
+    {
+      "name": "Quiet place 2",
+      "genre": "thriller",
+      "age_restriction": 18,
+      "duration": 100,
+      "cost": 300,
+      "country": "Spain",
+      "sessions": [1628348700, 1628362500, 1628602500]
+    },
+    {
+      "name": "Quiet place 1",
+      "genre": "thriller",
+      "age_restriction": 18,
+      "duration": 150,
+      "cost": 99,
+      "country": "Spain",
+      "sessions": [1628358700, 1628342500]
+    },
+    {
+      "name": "Best American Comedy",
+      "genre": "comedy",
+      "age_restriction": 16,
+      "duration": 90,
+      "cost": 250,
+      "country": "USA",
+      "sessions": [1628358800, 1628442500, 1628111200, 1627834600]
+    },
+    {
+      "name": "Do IT",
+      "genre": "action",
+      "age_restriction": 15,
+      "duration": 123,
+      "cost": 180,
+      "country": "Spain",
+      "sessions": [1628358800, 1628359800]
+    },
+    {
+      "name": "The Chief's Sause",
+      "genre": "comedy",
+      "age_restriction": 12,
+      "duration": 222,
+      "cost": 140,
+      "country": "Spain",
+      "sessions": [1628458800, 1628459800]
+    },
+    {
+      "name": "Chernobyl",
+      "genre": "thriller",
+      "age_restriction": 16,
+      "duration": 110,
+      "cost": 250,
+      "country": "Russia",
+      "sessions": [1627812000, 1627819200, 1627920000]
+    },
+    {
+      "name": "PoliceMAN from Russia",
+      "genre": "action",
+      "age_restriction": 18,
+      "duration": 115,
+      "cost": 230,
+      "country": "Russia",
+      "sessions": [1627812900, 1628358800, 1627420000]
+    }
+]

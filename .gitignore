@@ -1,0 +1,9 @@
+.vs
+Debug
+*.exe
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.txt
+to archive
